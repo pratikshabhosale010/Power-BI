@@ -8,6 +8,8 @@ I am currently learning and exploring Power BI and data transformation through h
 
 
 📂 What's in This Repository?
+
+
 1. A practice Power BI (.pbix) file demonstrating basic data transformations and visualizations.
 
 2.This project helps me understand the fundamentals of Power Query, DAX measures, and Power BI report design.
@@ -15,6 +17,8 @@ I am currently learning and exploring Power BI and data transformation through h
 
 
 🚀 Why I Created This
+
+
 1.To practice Power BI features and improve my data analytics skills.
 
 2.To begin building a portfolio of my learning progress.
